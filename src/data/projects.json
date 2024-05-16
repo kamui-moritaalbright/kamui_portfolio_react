@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Library Web App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to learn both front & backend web development skills.",
+    "skills": ["HTML", "CSS", "SQL", "C#", "JavaScript"],
+    "source": "https://github.com/kamui-moritaalbright/LibraryWebApp"
+  },
+  {
+    "title": "Data Analytics & ML",
+    "imageSrc": "projects/project.png",
+    "description": "Collection of various ML projects and data analysis.",
+    "skills": ["Python"],
+    "source": "https://github.com/kamui-moritaalbright/DataScience_Practices"
+  }
+]
